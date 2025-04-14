@@ -7,3 +7,9 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 1. Put some cool content about yourself (or anything you want) into `README.md`.
 
 And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
