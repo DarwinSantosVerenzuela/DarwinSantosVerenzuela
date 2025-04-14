@@ -8,7 +8,13 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 
 And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
 
+<head>
+  <meta charset="UTF-8">
+  <title>Mis Tecnologías Favoritas</title> <!-- Título de la pestaña -->
+</head>
+
 <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,mysql,nextjs,nodejs,py,react,vscode,nuxtjs,kubernetes&perline=15" />
   </a>
