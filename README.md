@@ -10,9 +10,10 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 
-<p align="center">
+<h3 align="center">Skill</h3>
 
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,mysql,nextjs,nodejs,py,react,vscode,nuxtjs,kubernetes&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,mysql,nextjs,nodejs,py,react,vscode,nuxtjs=15" />
   </a>
 </p>
