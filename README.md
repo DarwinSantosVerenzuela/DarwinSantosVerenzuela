@@ -28,8 +28,8 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 <h3 align="center">Skill/ Artificial intelligence</h3>
 
-| App's Artificial intelligence | | App's Efficiency |
-| :-: | | :-: | 
+| App's Artificial intelligence | App's Efficiency |
+| :-: | :-: |
 | ChatGPT | | Milanote |
 | Geminis | | Slack |
 | SUMO | | Google Meet |
