@@ -22,6 +22,6 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,illustrador,notion,ae&perline=15" />
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,notion,ae&perline=15" />
   </a>
 </p>
