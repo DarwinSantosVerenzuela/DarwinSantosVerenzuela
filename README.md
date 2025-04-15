@@ -22,14 +22,20 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,ae,notion,milanote&perline=15" />
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,ae,notion&perline=15" />
   </a>
 </p>
 
 <h3 align="center">Skill/ Artificial intelligence</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=chatgpt,suno,photoroom&perline=15" />
-  </a>
+| App |
+| :-: |
+| ChatGPT |
+| Geminis |
+| SUMO |
+| Photoroom |
+
+
+
 </p>
+
