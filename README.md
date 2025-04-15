@@ -1,12 +1,7 @@
 <h3 align="center">Hi, Darwin Santos</h3>
 <h3 align="center">Graphic Designer | UX/UI Designer | Web Developer</h3>
 
-Diseñador gráfico y desarrollador front-end con experiencia en diseño de interfaces (UI) y experiencia 
-de usuario (UX). Especializado en la creación de identidades visuales, diseño web responsivo y 
-optimización de interfaces para mejorar la usabilidad y conversión. Dominio avanzado de 
-herramientas de diseño como Adobe Illustrator y Photoshop, así como tecnologías de desarrollo como 
-HTML5, CSS3, JavaScript, Vue.js y Nuxt. Capacidad para gestionar proyectos, liderar equipos y 
-desarrollar soluciones visuales que combinan creatividad y funcionalidad.
+Graphic Designer and Front-End Developer with experience in User Interface (UI) and User Experience (UX) design. Specialized in creating visual identities, responsive web design, and interface optimization to enhance usability and conversion. Proficient in advanced design tools such as Adobe Illustrator and Photoshop, as well as development technologies including HTML5, CSS3, JavaScript, Vue.js, and Nuxt. Strong ability to manage projects, lead teams, and develop visual solutions that blend creativity with functionality.
 
 
 
