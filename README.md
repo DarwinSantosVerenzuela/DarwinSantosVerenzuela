@@ -1,5 +1,5 @@
-
-<h3 align="center">Graphic Designer | UX/UI Designer | Web Developer</h3>
+<h3 align="left">Hi, Darwin Santos</h3>
+<h3 align="left">Graphic Designer | UX/UI Designer | Web Developer</h3>
 
 <h3 align="left">Skill/ UX/UI Designer and Web Developer</h3>
 
