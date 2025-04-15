@@ -30,10 +30,10 @@ And that's about it. The `README.md` of your profile readme repository will be d
 
 | App's Artificial intelligence | App's Efficiency |
 | :-: | :-: |
-| ChatGPT | | Milanote |
-| Geminis | | Slack |
-| SUMO | | Google Meet |
-| Photoroom | | Webex |
+| ChatGPT | Milanote |
+| Geminis | Slack |
+| SUMO | Google Meet |
+| Photoroom | Webex |
 
 
 
