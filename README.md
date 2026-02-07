@@ -9,7 +9,7 @@ Graphic Designer and Front-End Developer with experience in User Interface (UI) 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,github,js,nuxtjs,nextjs,nodejs,py,mysql,react,vscode,figma,discord,git,bitbucket&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,js,nuxtjs,docker.nextjs,nodejs,py,mysql,react,vscode,figma,discord,git,bitbucket&perline=15" />
   </a>
 </p>
 
@@ -29,7 +29,8 @@ Graphic Designer and Front-End Developer with experience in User Interface (UI) 
 | Geminis | Slack |
 | SUMO | Google Meet |
 | Photoroom | Webex |
-| Antigravity | |
+| Antigravity | Google workspace |
+| Copilot  | Microsoft 365 |
 
 
 
