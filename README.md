@@ -29,6 +29,7 @@ Graphic Designer and Front-End Developer with experience in User Interface (UI) 
 | Geminis | Slack |
 | SUMO | Google Meet |
 | Photoroom | Webex |
+| Antigravity | |
 
 
 
