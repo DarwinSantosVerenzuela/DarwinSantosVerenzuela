@@ -1,8 +1,14 @@
 <h3 align="center">Hi, Darwin Santos</h3>
 <h3 align="center">Graphic Designer | UX/UI Designer | Web Developer</h3>
 
-Graphic Designer and Front-End Developer with experience in User Interface (UI) and User Experience (UX) design. Specialized in creating visual identities, responsive web design, and interface optimization to enhance usability and conversion. Proficient in advanced design tools such as Adobe Illustrator and Photoshop, as well as development technologies including HTML5, CSS3, JavaScript, Vue.js, and Nuxt. Strong ability to manage projects, lead teams, and develop visual solutions that blend creativity with functionality.
+Full-Stack Developer focused on Front-End and User Experience (UX/UI). Specialized in building comprehensive digital solutions that blend high-fidelity visual design with robust, automated technical architecture.
 
+I have extensive experience in database design and the implementation of APIs and endpoints, optimizing systems from scratch or scaling existing infrastructures. My technical workflow includes developing Progressive Web Apps (PWA), utilizing Docker for containerization, and implementing CI/CD (Continuous Integration/Continuous Deployment) strategies. Additionally, I am proficient in workflow automation using n8n, connecting tools and streamlining complex operational processes.
+
+Traduccion (Español)
+Desarrollador Full-Stack con enfoque en Front-End y Experiencia de Usuario (UX/UI). Especializado en crear soluciones digitales integrales que fusionan un diseño visual de alta fidelidad con una arquitectura técnica robusta y automatizada.
+
+Cuento con experiencia en el diseño de bases de datos y la implementación de APIs y endpoints, optimizando sistemas desde cero o escalando infraestructuras existentes. Mi flujo de trabajo técnico incluye el desarrollo de aplicaciones web progresivas (PWA), el uso de Docker, y estrategias de Integración y Despliegue Continuo (CI/CD). Además, domino la automatización de flujos de trabajo mediante n8n, conectando herramientas y optimizando procesos operativos.
 
 
 <h3 align="left">Skill/ UX/UI Designer and Web Developer</h3>
