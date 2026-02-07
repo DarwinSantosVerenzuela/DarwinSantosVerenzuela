@@ -17,20 +17,20 @@ Graphic Designer and Front-End Developer with experience in User Interface (UI) 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=affinity,photoshop,illustrator,ae,notion&perline=15" />
+    <img src="https://skillicons.dev/icons?i=,photoshop,illustrator,ae,notion&perline=15" />
   </a>
 </p>
 
 <h3 align="left">Skill/ Artificial intelligence</h3>
 
-| App's Artificial intelligence | App's Efficiency |
+| App's Artificial intelligence | App's Efficiency | App's de diseño abanzado |
 | :-- | :-- |
-| ChatGPT | Milanote |
-| Geminis | Slack |
-| SUMO | Google Meet |
-| Photoroom | Webex |
-| Antigravity | Google workspace |
-| Copilot  | Microsoft 365 |
+| ChatGPT | Milanote |Affinity|
+| Geminis | Slack ||
+| SUMO | Google Meet ||
+| Photoroom | Webex ||
+| Antigravity | Google workspace ||
+| Copilot  | Microsoft 365 ||
 
 
 
