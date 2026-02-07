@@ -24,8 +24,8 @@ Graphic Designer and Front-End Developer with experience in User Interface (UI) 
 <h3 align="left">Skill/ Artificial intelligence</h3>
 
 | App's Artificial intelligence | App's Efficiency | App's de diseño abanzado |
-| :-- | :-- |
-| ChatGPT | Milanote |Affinity|
+| :-- | :-- | :-- |
+| ChatGPT | Milanote | Affinity|
 | Geminis | Slack ||
 | SUMO | Google Meet ||
 | Photoroom | Webex ||
